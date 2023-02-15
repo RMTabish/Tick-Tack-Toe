@@ -1,4 +1,4 @@
-Tic Tac Toe Game
+# Tic Tac Toe Game
 This is a Python implementation of a dynamic Tic Tac Toe game. The game is played on a variable-sized board, and the number of players can be set from 2 to 5. Players take turns placing their marks on the board until one player gets a winning combination or the board is full and the game ends in a tie.
 
 #Getting Started
@@ -10,17 +10,17 @@ bash
 Copy code
 Alternatively, you can download the project as a ZIP file from the GitHub page and extract it to a local directory.
 
-#Usage
+## Usage
 Once you have the project on your machine, you can start the game by running the tic_tac_toe.py file using the following command:
 
 Copy code
 python tic_tac_toe.py
 The game will ask you to input the number of players (between 2 and 5) and the board size (between 3 and 10). Once the game is started, each player will take turns placing their marks on the board using the coordinates of their chosen cell. The game will continue until one player gets a winning combination or the board is full and the game ends in a tie.
 
-#Contributing
+## Contributing
 If you would like to contribute to the project, you can fork the repository and make changes to the code. Once you have made your changes, you can submit a pull request to have your changes reviewed and merged into the main branch.
 
-#License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
